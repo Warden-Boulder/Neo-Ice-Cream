@@ -1,5 +1,3 @@
-# Neo-Ice-Cream
-
 # 🍦 Neo's Ice Cream Parlor
 
 A responsive web design mockup created for a **VGen HTML/CSS Challenge**.
