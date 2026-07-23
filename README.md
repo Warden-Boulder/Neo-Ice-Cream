@@ -12,11 +12,7 @@ The objective of this project was to design a themed website centered around **i
 
 ## 📸 Preview
 
-> *(Add a screenshot here after uploading one to the repository.)*
 
-```md
-![Neo's Ice Cream Parlor](images/homepage.png)
-```
 
 ---
 
@@ -82,9 +78,3 @@ Create a visually appealing website inspired by the theme **Ice Cream** while de
 
 - GitHub: https://github.com/Warden-Boulder
 - Portfolio: https://warden-boulder.github.io/Portfolio/
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
