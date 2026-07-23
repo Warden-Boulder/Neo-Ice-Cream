@@ -8,6 +8,10 @@ header {
   text-align: center;
 }
 
+header a {
+  color: white;
+  text-decoration: none;
+}
 footer {
   background-color: #5c3e21;
   border: 2px solid #f5a3b5;
@@ -56,4 +60,14 @@ ol {
 
 table {
   margin: 0 auto;
+}
+
+#order {
+  height: 200px;
+  width: 300px;
+}
+
+legend {
+  font-style: italic;
+  font-weight: bold;
 }
