@@ -6,7 +6,7 @@ The objective of this project was to design a themed website centered around **i
 
 ## 🌐 Live Demo
 
-**GitHub Pages:** 
+**GitHub Pages:** https://warden-boulder.github.io/Neo-Ice-Cream/
 
 ---
 
