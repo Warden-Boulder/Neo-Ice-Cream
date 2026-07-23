@@ -10,12 +10,6 @@ The objective of this project was to design a themed website centered around **i
 
 ---
 
-## 📸 Preview
-
-
-
----
-
 ## ✨ Features
 
 - Responsive mobile-first layout
